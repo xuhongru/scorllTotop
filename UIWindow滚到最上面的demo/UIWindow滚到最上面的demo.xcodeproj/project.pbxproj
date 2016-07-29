@@ -291,6 +291,7 @@
 				B6979C5A1D43C87200D151F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
